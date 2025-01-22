@@ -1,4 +1,5 @@
 Simple Calculator Web Application
+
 This repository contains a simple, functional calculator built with HTML, CSS, and JavaScript. It is designed for basic arithmetic operations and demonstrates responsive and interactive web design.
 
 Features
